@@ -1,0 +1,184 @@
+h1{
+	font-family: 'Baloo', cursive;
+	text-align: center;
+	font-size:90px;
+	margin:20px 0 0 0;
+	color:black;
+	padding-bottom:0px;
+}
+
+h2{font-family:'Baloo', cursive;
+text-align:center;
+font-size:90px
+margin: 60px 0 0 0;
+color: black;
+padding-bottom: 20px;}
+
+
+p{text-align: center;
+	padding-top: 10px;}
+
+	.col-centered {text-align: center;}
+
+
+
+	.btn {color: rgb(0, 0, 0);
+		font-family: 'Indie Flower', cursive;
+		font-size:20px;
+		font-weight:bold;}
+
+		.navbar-right {color: rgb(0, 0, 0);
+			font-family: 'Indie Flower';
+			font-size:20px;
+			font-weight:bold;}
+
+			.dropdown-menu{font-size:23px;}
+
+			.navbar-default .navbar-brand{
+				color: black;
+				font-family: 'Indie Flower', cursive;
+				font-size:20px;
+				font-weight:bold;}
+
+				.navbar{background-color:#b8babc;}
+
+				.col-md-4{font-family:'Muli';
+				font-size:30px;
+				font-weight: bold
+				color: black;}
+
+				body {
+					background-color: white;
+
+					background-repeat: no-repeat;
+					background-position: top center;}
+
+
+					.logo{width:40px;
+						height:40px;}
+
+						.medium {width:70%;
+							height:70%;}
+
+							a:visited {color:black;}
+
+							a {color: #0CCC49;}
+							a:hover {color: #0CCC49;}
+
+							.navbar .nav > li > a {
+
+								line-height: 19px;
+
+								text-decoration: none;
+
+								color:  black;
+							}
+
+							.alo{
+								font-size: 15px;
+								height:200px; 
+								background:#000 url("Tania.jpg");
+								background-size: 50%;
+								background-repeat: no-repeat;
+								margin:0 auto;
+								background-position:center;
+								color:black;
+								font-family:'Muli'; 
+								text-shadow: black 0.1em 0.1em 0.2em;
+								text-align: center;
+							}
+
+							.hello {
+								font-size: 15px;
+								height:200px; 
+								background:#000 url("barbara.jpg");
+								background-size: 50%;
+								background-repeat: no-repeat;
+								margin:0 auto;
+								background-position:center;
+								color:black;
+								font-family:'Muli';
+								text-shadow: black 0.1em 0.1em 0.2em
+							}
+
+							.join {
+								color: black;
+								font-family: 'Indie Flower', cursive;
+								font-size:15px;
+								font-weight:bold;
+								text-align: center;
+							}
+
+							.input{
+								color:black;
+							}
+
+							.gender {
+								color: black;
+								font-family: 'Indie Flower', cursive;
+								font-size:15px;
+								font-weight:bold;
+								text-align: center;
+
+							}
+
+							li {
+								display: inline;
+								padding: 0px 10px 0px 10px;
+							}
+
+							.button {
+								font-family: 'Indie Flower', cursive;
+								text-align: center;
+								padding: 10px 24px;
+								background-color: black;
+								border: 0px;
+								color: black;
+								font-size: 16px;
+								display: inline-block;
+								font-size: 16px;
+								margin: 4px 2px;
+								-webkit-transition-duration: 0.3s;
+								-moz-transition-duration: 0.3s;
+								transition-duration: 0.3s;
+								cursor: pointer;
+							}
+
+							.button:hover {
+								background-color: #C77474;
+								color: black;
+							}
+							.social {
+								text-align: center;
+							}
+/*						small {
+							opacity: 1;
+							font-size: 15px;
+							position: relative;
+							left: 0px;
+							/*top: -30px;}*/
+
+/*						.show-description p.boxtext {
+							height: 150px;
+							background-color: gray;
+						}
+
+						.show-description small {
+							opacity: 1;
+							}*/
+
+							.boxtext p {
+								display: inline-block;
+								margin: 0 auto;
+							}
+
+							.boxtext small{
+								background-color: #C77474;
+								display:none;
+							}
+
+							p.boxtext{
+								opacity: 1;
+							}
+
+
